@@ -18,7 +18,7 @@ Als Porjekt hatte ich mir überlegt Coreball oder ein Dictonary.
 
 ## 30.8
 - [ ] M320 repetieren
-- [ ] Auftrag 2405 (nachholen)
+- [ ] Auftrag 2404 (nachholen)
 - [ ] Programmieren lernen mithilfe kleiner Projekte
 - [ ] Kleines Projekt finden
 ✍️ Heute habe ich... (50-100 Wörter)
