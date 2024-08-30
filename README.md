@@ -27,6 +27,11 @@ Als Porjekt hatte ich mir überlegt Coreball oder ein Dictonary.
 - [X] evtl. M320 weiterarbeiten
 - [X] DSL M231 vorholen
 
+Andere Ideen: 
+Level 1: Space Invader                (hilft um Collision zu berechnen)
+Level 2: Ping Pong (das ätere)              
+Level 3: Coreball                      
+
 ✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
