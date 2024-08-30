@@ -35,8 +35,13 @@ Level 4: Coreball
 
 WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich die DSL Aufgaben vom Montag vorgeholt, aber dies wird eine einmalige Sache sein. Ausserdem habe ich an meinem Promillenrechner vom Modul 320 weitergearbeitet. Dazu habe ich mir noch kleinere Projekte ausgedacht, die ich Programmieren möchte. Ich habe 3/4 Spiele ausgedacht, und ich wollte alle in eine Webseite packen, wo man dann alle Spiele spielen kann. (58 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
+## 06.09
+- [ ] Mockup für webseite machen (Footer, Header, vlt ein Aside)
+- [ ] Space Invader Design, wie mache ich es, wie sehen die Gegner aus und wie sieht das Raumschfif aus
+- [ ] Space Invader Grid bauen, damit ich das Spiel beginnen kann.
+- [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
