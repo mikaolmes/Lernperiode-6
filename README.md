@@ -25,6 +25,7 @@ Als Porjekt hatte ich mir überlegt Coreball oder ein Dictonary.
 - [ ] Planung meines kleinen Projektes (core ball, wie mache ich es)
 - [ ] Modul 322 weiterarbeiten
 - [ ] evtl. M320 weiterarbeiten
+- [ ] DSL M231 vorholen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
