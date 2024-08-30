@@ -29,8 +29,9 @@ Als Porjekt hatte ich mir überlegt Coreball oder ein Dictonary.
 
 Andere Ideen: 
 Level 1: Space Invader                (hilft um Collision zu berechnen)
-Level 2: Ping Pong (das ätere)              
-Level 3: Coreball              
+Level 2: Ping Pong (das ätere)    
+Level 3: Flappy Bird
+Level 4: Coreball              
 
 WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 
