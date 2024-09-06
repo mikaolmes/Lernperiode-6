@@ -41,14 +41,19 @@ WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 
 ## 06.09
 - [X] Mockup für webseite machen (Footer, Header, vlt ein Aside)
-- [ ] Mockup umsetzen in Visual Stuido Code
+- [X] Mockup umsetzen in Visual Stuido Code
 - [ ] Space Invader Design, wie mache ich es, wie sehen die Gegner aus und wie sieht das Raumschfif aus
 - [ ] Space Invader Grid bauen, damit ich das Spiel beginnen kann.
 
 Evtl. Mobile Version für die Webseite wenn ich mit der LapTop-Version fretig bin.
 Hover Animation im Footer für die Einzlenen Seiten.
 
+✍️ Heute habe ich ein Mockup für meine Webseite erstellt, und diese sogar auch schon umgesetzt. Ich habe sehr viel ausprobiert, vorallem mit den Farben. Ich bin auch noch nicht ganz zu frieden mit den Farben, ausserdem habe ich angefangen an einem Logo zu arbeiten, doch meine Maus hat plötzlich den Geist aufgegeben, also musste ich dies auf das nächste mal verschieben. Statdessen habe ich weiter mit den Fraben und dem Style-Sheet herumprobiert. (72 Wörter)
+
 
 ## 13.09.2024
+- [ ] Das Mockup fertig umsetzen (Farben, usw.)
+- [ ] Logo fertig machen
+- [ ] Space Invader Designen (Gegner, Schiffe, usw.)
 - [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
