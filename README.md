@@ -45,3 +45,5 @@ WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 - [ ] Space Invader Grid bauen, damit ich das Spiel beginnen kann.
 - [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
+Evtl. Mobile Version für die Webseite wenn ich mit der LapTop-Version fretig bin.
+
