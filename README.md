@@ -40,10 +40,14 @@ WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 06.09
-- [ ] Mockup für webseite machen (Footer, Header, vlt ein Aside)
+- [X] Mockup für webseite machen (Footer, Header, vlt ein Aside)
+- [ ] Mockup umsetzen in Visual Stuido Code
 - [ ] Space Invader Design, wie mache ich es, wie sehen die Gegner aus und wie sieht das Raumschfif aus
 - [ ] Space Invader Grid bauen, damit ich das Spiel beginnen kann.
-- [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
 Evtl. Mobile Version für die Webseite wenn ich mit der LapTop-Version fretig bin.
+
+
+## 13.09.2024
+- [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
