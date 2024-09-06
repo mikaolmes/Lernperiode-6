@@ -1,0 +1,243 @@
+/*Variabeln*/
+
+:root {
+    --clr-dark: #1B1E25;
+    --clr-gray: #3F3C43;
+    --clr-blue: #2895AA;
+}
+
+
+/*CSS for the footer*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: var(--clr-dark);
+}
+
+.footerContainer {
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+
+.socialIcons {
+    display: flex;
+    justify-content: center;
+}
+
+.socialIcons a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: var(--clr-gray);
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.socialIcons a i {
+    font-size: 2em;
+    color: var(--clr-dark);
+    opacity: 0, 9;
+}
+
+/* Hover affect on social media icon */
+.socialIcons a:hover {
+    background-color: var(--clr-gray);
+    transition: 0.5s;
+}
+
+.socialIcons a:hover i {
+    color: var(--clr-blue);
+    transition: 0.5s;
+}
+
+.footerNav {
+    margin: 30px 0;
+}
+
+.footerNav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.footerNav ul li a {
+    color: var(--clr-gray);
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+
+}
+
+.footerNav ul li a:hover {
+    opacity: 1;
+}
+
+.footerBottom {
+    background-color: var(--clr-dark);
+    padding: 20px;
+    text-align: center;
+}
+
+.footerBottom p {
+    color: var(--clr-gray);
+}
+
+.designer {
+    opacity: 0.7;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
+
+@media (max-width: 768px) {
+    .footerNav ul {
+        flex-direction: column;
+    }
+
+    .footerNav ul li {
+        width: 100%;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .socialIcons a {
+        padding: 8px;
+        margin: 4px;
+    }
+}
+
+/*End of CSS-Code for the Footer*/
+
+/*CSS for navigation*/
+.topnav {
+    overflow: hidden;
+    background-color: var(--clr-dark);
+    position: relative;
+    top: 104px;
+    width: 100%;
+}
+
+.topnav .hamburger {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+    color: var(--clr-blue);
+    padding: 14px 16px;
+    text-align: center;
+    background: none;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+}
+
+.topnav .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topnav .menu a {
+    float: left;
+    display: block;
+    color: var(--clr-blue);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav .menu a:hover {
+    background-color: var(--clr-blue);
+    color: var(--clr-dark);
+}
+
+.topnav .menu a.active {
+    background-color: var(--clr-blue);
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+@media screen and (max-width: 768px) {
+    .topnav .menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .topnav .menu a {
+        float: none;
+        text-align: center;
+        padding: 10px 20px;
+    }
+
+    .topnav .hamburger {
+        display: block;
+    }
+}
+
+/*End of CSS-Code for navigation*/
+
+/*CSS-Code for Logo*/
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--clr-dark);
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        position: fixed;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--clr-dark);
+        z-index: 1;
+    }
+}
+
+/*End of Code for Logo*/
+
+/*aside*/
+.content {
+    display: grid;
+    grid-template-areas: "main"
+                         "footer";
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(0, 1fr) auto;
+    min-height: 100vh;
+}
+
+.aside {
+    grid-area: aside;
+    background-color: var(--clr-lightblue);
+    padding: 20px;
+    color: var(--clr-black);
+    border-right: var(--clr-black) solid 1px;
+    padding-top: 125px;
+}
+
+.main {
+    grid-area: main;
+    background-color: var(--clr-lightblue);
+    color: var(--clr-black);
+    padding: 20px;
+    padding-top: 120px;
+}
+
+/*end of aside*/
+
