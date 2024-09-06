@@ -46,6 +46,7 @@ WINForms oder eine Webseite mit allen drei Spielen mit JAVA.
 - [ ] Space Invader Grid bauen, damit ich das Spiel beginnen kann.
 
 Evtl. Mobile Version für die Webseite wenn ich mit der LapTop-Version fretig bin.
+Hover Animation im Footer für die Einzlenen Seiten.
 
 
 ## 13.09.2024
