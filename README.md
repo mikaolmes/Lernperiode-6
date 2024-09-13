@@ -52,8 +52,8 @@ Hover Animation im Footer für die Einzlenen Seiten.
 
 
 ## 13.09.2024
-- [ ] Das Mockup fertig umsetzen (Farben, usw.)
-- [ ] Logo fertig machen
+- [X] Das Mockup fertig umsetzen (Farben, usw.)
+- [X] Logo fertig machen
 - [ ] Space Invader Designen (Gegner, Schiffe, usw.)
 - [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
