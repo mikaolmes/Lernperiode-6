@@ -57,5 +57,12 @@ Hover Animation im Footer für die Einzlenen Seiten.
 - [ ] Space Invader Designen (Gegner, Schiffe, usw.)
 - [ ] Space Invader Schiff und vlt auch schon die Gegner programmieren.
 
-✍️ Heute habe ich mein Logo fertig gemacht und dazu es ebenfalls in meine Webseite eingefügt, zudem habe ich mein Mockup fertig gestellt und als Beispiel "lorem" Texte überall dort eingefügt wo es später entweder Text oder ein Spiel haben soll. 
+✍️ Heute habe ich mein Logo fertig gemacht und dazu es ebenfalls in meine Webseite eingefügt, zudem habe ich mein Mockup fertig gestellt und als Beispiel "lorem" Texte überall dort eingefügt wo es später entweder Text oder ein Spiel haben soll. Als nächstes kann ich versuchen das erste Spiel zu porgrammieren und dies dann in die Webseite integrieren. Dies wird eine Herausforderung. (61 Wörter)
+
+
+## 20.09.2024
+- [ ] Space Invader Designen (Gegener, Schiffe, usw.)
+- [ ] Space INvader Schiff programmieren (bewegungen usw.)
+- [ ] Space INvader Gegener programmieren (bewegungen usw.)
+- [ ] Punktzahl programmmieren (Score)
 
