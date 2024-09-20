@@ -61,8 +61,16 @@ Hover Animation im Footer für die Einzlenen Seiten.
 
 
 ## 20.09.2024
-- [ ] Space Invader Designen (Gegener, Schiffe, usw.)
-- [ ] Space INvader Schiff programmieren (bewegungen usw.)
+- [X] Space Invader Designen (Gegener, Schiffe, usw.)
+- [X] Space INvader Schiff programmieren (bewegungen usw.)
 - [ ] Space INvader Gegener programmieren (bewegungen usw.)
 - [ ] Punktzahl programmmieren (Score)
+
+✍️ Heute habe ich meine Gegner designt und dazu noch mein Schiff angefangen, doch ich bin mit dem Schiff noch nicht ganz zu frieden, nächstes mal muss ich dies fertig machen. Ausserdem habe ich schon ein wenig angefangen zu programmieren, und zwar habe ich schon mein grid und es sind 6 Gegner und das Schiff sleber das sich auch schon bwegen lässt und es fliegt nicht aus dem Grid heraus. (69 Wörter)
+
+
+## 27.09.2024
+- [ ] Space Invader Schiff fertig designen
+- [ ] Space Invader Gegener so programmiern, das sie isch bewegen.
+- [ ] Score Programmieren
 
