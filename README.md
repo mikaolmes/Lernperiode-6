@@ -71,8 +71,8 @@ Hover Animation im Footer für die Einzlenen Seiten.
 
 ## 27.09.2024
 - [ ] Space Invader Schiff fertig designen
-- [ ] Space Invader Gegener so programmiern, das sie isch bewegen.
-- [ ] Score Programmieren
+- [X] Space Invader Gegener so programmiern, das sie isch bewegen.
+- [X] Score Programmieren
 
 
 ## Fertiges Projekt
