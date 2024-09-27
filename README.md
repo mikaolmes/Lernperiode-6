@@ -76,4 +76,9 @@ Hover Animation im Footer für die Einzlenen Seiten.
 
 
 ## Fertiges Projekt
--- Projektbeschreibung
+Ich wollte eine Webseite Programmieren in der ich kleine Spiele einbauen wollte. Leider habe ich nicht alle 4 spiele programmieren. aber ich habe es geschafft zumindest eins zu programmieren und zwar das Space INvaders game. Der Code dafür habe ich schon hochgeladen und es hat mir sehr spass gemacht dieses Spiel zu programmieren. Mein nächstes Ziel für die nächste Lernperiode wäre es dann ein anderes Spiel dort zu Programmieren. Das nächste Spiel auf meiner Liste wäre das Pinp Pong spiel.
+
+
+## Reflexion
+Ich finde ich habe sehr gut gearbeitet und hatte keine Schwierigkeiten, ausser ganz am Anfang wusste ich noch nicht ganz was ich machen sollte, also programmieren wollte. Doch dann habe habe ich mich dranerinnert, dass ich manchmal zu hause wenn mir langweilig wird, auf irgendeiner Webseite spiele spiele. Und da habe ich mir gedacht, wieso mache ich das nicht auch. Und so ist meine Idee dann entstanden. 
+Ich fand diese Lernperiode eine der Besten die ich bis jetzt hatte, da es sehr viel spass gemacht hat dieses Spiel zu programmieren. Ich freue mich auf die nächste Lernperiode wo ich dann das ping Pong Spiel programmiere. Vielleicht habe ich danach auch schon Zeit mit dem dritten Spiel Flappy Bird anzufangen, denn ich muss die Grund-Webseite ja nicht mehr programmieren, sondern kann direkt mit dem Java Skript anfangen und anfangen zu programmieren. Worauf ich nicht so stolz bin und auch noch unbedingt ändern möchte, ist, dass ich das Space Invaders Ship nich selber gemacht habe, und habe es einfach aus dem INternet heruntergeladen, darum muss ich bevor ich die Webseite hosten lassen möchte, das unbedingt ändern, da es Urheberrechtlich geschützt ist.
