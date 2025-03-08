@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Team Gaming</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><img src="assets/Logo.png" alt="Logo" height="100"></a>
+    </header>
+    <div class="hiddenpicture"></div>
+    <div class="hiddenpicture"></div>
+    <div class="topnav">
+        <button class="hamburger" onclick="toggleMenu()">&#9776;</button>
+        <div class="menu" id="menu">
+            <a href="index.html">Home</a>
+            <a href="space.html">Space Invader</a>
+            <a href="pong.html">Ping Pong</a>
+            <a href="bird.html">Flappy Bird</a>
+            <a class="active" href="core.html">Coreball</a>
+        </div>
+    </div>
+    <div class="content">   
+        <main class="main">
+            <h1>Main</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo nobis quod maiores nulla praesentium et
+                placeat sunt fugit, voluptas quaerat sequi perspiciatis adipisci, a repellendus? Adipisci repellat
+                corrupti dolores soluta unde facere nesciunt fugiat sequi aspernatur dignissimos nam vitae odio
+                voluptas, temporibus accusantium libero minima tempore illo natus perspiciatis exercitationem maxime?
+                Iure iusto totam illum laboriosam perspiciatis quo provident eum repellendus eos, ex pariatur inventore
+                vitae tenetur eveniet, sapiente aperiam est eligendi voluptas quos beatae! Explicabo in delectus quos
+                labore animi nesciunt, alias aperiam ullam minima, mollitia molestias. Fugit molestias deleniti ex cum
+                totam facilis aliquam soluta deserunt nisi unde!</p>
+
+        </main>
+    </div>
+</body>
+
+
+
+<footer>
+    <div class="footerContainer">
+        <div class="socialIcons">
+            <a href="https://open.spotify.com/intl-de/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank"><i
+                    class="fa-brands fa-spotify"></i></a>
+            <a href="https://instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://discord.com" target="_blank"><i class="fa-brands fa-discord"></i></a>
+            <a href="https://github.com/ZTCKamikaze" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+        </div>
+    </div>
+    
+        <div class="footerNav">
+            <ul>
+                <li><a href="step1.html">Schritt 1</a></li>
+                <li><a href="step2.html">Schritt 2</a></li>
+                <li><a href="step3.html">Schritt 3</a></li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="footerBottom">
+
+        <p>Copyright &copy;2024; Designed by <span class="designer">Mika Olmes</span></p>
+    </div>
+</footer>
+
+<script>
+    function toggleMenu() {
+        const menu = document.getElementById('menu');
+        if (menu.style.display === 'block') {
+            menu.style.display = 'none';
+        } else {
+            menu.style.display = 'block';
+        }
+    }
+</script>
+
+</html>
